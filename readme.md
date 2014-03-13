@@ -8,5 +8,8 @@ We welcome ideas, suggestions, feedback, and the occasional rant. Did you find a
 2. Add a descriptive title
 3. Add in any notes, comments, feedback into the text box
 4. Add a label - bug, feature, question, or other
+5. You'll automatically be notified as we address the ticket
+
+#### Help us make Real Python the best it can be! Cheers!
 
 ![logo](https://raw.github.com/realpython/support/master/photo-main.jpg)
