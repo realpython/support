@@ -5,10 +5,9 @@ We welcome ideas, suggestions, feedback, and the occasional rant. Did you find a
 ### Instructions
 
 1. Click [here](https://github.com/realpython/support/issues/new) to add a new ticket
-2. Add a descriptive title
-3. Add in any notes, comments, feedback into the text box
-4. Add a label - bug, feature, question, or other
-5. You'll automatically be notified as we address the ticket
+1. Add a descriptive title
+1. Add in any notes, comments, feedback into the text box
+1. You'll automatically be notified as we address the ticket
 
 #### Help us make Real Python the best it can be! Cheers!
 
